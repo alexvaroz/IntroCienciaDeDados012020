@@ -1,0 +1,514 @@
+;condicao;dataNascimento;email;ideCadastro;nome;nomeParlamentar;partido;sexo;uf
+0;Titular;26/04/1942;dep.beneditadasilva@camara.leg.br;73701;BENEDITA SOUZA DA SILVA SAMPAIO;Benedita da Silva ;PT;feminino;RJ
+1;Titular;20/12/1953;dep.angelaamin@camara.leg.br;73696;ANGELA REGINA HEINZEN AMIN HELOU;Angela Amin ;PP;feminino;SC
+2;Titular;20/04/1959;dep.renildocalheiros@camara.leg.br;73801;RENILDO VASCONCELOS CALHEIROS;Renildo Calheiros ;PCdoB;masculino;PE
+3;Titular;17/05/1957;dep.jandirafeghali@camara.leg.br;74848;JANDIRA FEGHALI;Jandira Feghali ;PCdoB;feminino;RJ
+4;Titular;07/04/1947;dep.atilalira@camara.leg.br;74459;ÁTILA FREITAS LIRA;Átila Lira ;PP;masculino;PI
+5;Titular;23/05/1948;dep.rubensbueno@camara.leg.br;73466;RUBENS BUENO;Rubens Bueno ;CIDADANIA;masculino;PR
+6;Titular;26/04/1946;dep.gonzagapatriota@camara.leg.br;74419;LUIZ GONZAGA PATRIOTA;Gonzaga Patriota ;PSB;masculino;PE
+7;Titular;04/11/1941;dep.carlosbezerra@camara.leg.br;141401;CARLOS GOMES BEZERRA;Carlos Bezerra ;MDB;masculino;MT
+8;Titular;25/08/1948;dep.juliocesar@camara.leg.br;74317;JÚLIO CÉSAR DE CARVALHO LIMA;Júlio Cesar ;PSD;masculino;PI
+9;Titular;21/05/1943;dep.robertopessoa@camara.leg.br;74305;ROBERTO SOARES PESSOA;Roberto Pessoa ;PSDB;masculino;CE
+10;Titular;05/10/1944;dep.elcionebarbalho@camara.leg.br;74075;ELCIONE THEREZINHA ZAHLUTH BARBALHO;Elcione Barbalho ;MDB;feminino;PA
+11;Titular;24/12/1949;dep.arlindochinaglia@camara.leg.br;73433;ARLINDO CHIGNALIA JUNIOR;Arlindo Chinaglia ;PT;masculino;SP
+12;Titular;15/11/1959;dep.ricardobarros@camara.leg.br;73788;RICARDO JOSÉ MAGALHÃES BARROS;Ricardo Barros ;PP;masculino;PR
+13;Titular;05/07/1946;dep.ivanvalente@camara.leg.br;73531;IVAN VALENTE;Ivan Valente ;PSOL;masculino;SP
+14;Titular;24/05/1936;dep.maurolopes@camara.leg.br;74749;MAURO RIBEIRO LOPES;Mauro Lopes ;MDB;masculino;MG
+15;Titular;03/06/1957;dep.leonidascristino@camara.leg.br;74299;JOSÉ LEÔNIDAS DE MENEZES CRISTINO;Leônidas Cristino ;PDT;masculino;CE
+16;Titular;25/08/1958;dep.eduardobarbosa@camara.leg.br;74655;EDUARDO LUIZ BARROS BARBOSA;Eduardo Barbosa ;PSDB;masculino;MG
+17;Titular;25/04/1958;dep.hermesparcianello@camara.leg.br;73772;HERMES PARCIANELLO;Hermes Parcianello ;MDB;masculino;PR
+18;Titular;02/12/1963;dep.josepriante@camara.leg.br;74079;JOSÉ BENITO PRIANTE JÚNIOR;José Priante ;MDB;masculino;PA
+19;Titular;12/12/1972;dep.wolneyqueiroz@camara.leg.br;74439;WOLNEY QUEIROZ MACIEL;Wolney Queiroz ;PDT;masculino;PE
+20;Titular;20/08/1956;dep.celsorussomanno@camara.leg.br;73441;CELSO UBIRAJARA RUSSOMANNO;Celso Russomanno ;REPUBLICANOS;masculino;SP
+21;Titular;19/05/1959;dep.wellingtonroberto@camara.leg.br;74043;JOSÉ WELLINGTON ROBERTO;Wellington Roberto ;PL;masculino;PB
+22;Titular;03/11/1953;dep.lincolnportela@camara.leg.br;74585;LINCOLN DINIZ PORTELA;Lincoln Portela ;PL;masculino;MG
+23;Titular;28/04/1952;dep.damiaofeliciano@camara.leg.br;74467;DAMIÃO FELICIANO DA SILVA;Damião Feliciano ;PDT;masculino;PB
+24;Titular;18/04/1963;dep.gustavofruet@camara.leg.br;73460;GUSTAVO BONATO FRUET;Gustavo Fruet ;PDT;masculino;PR
+25;Titular;22/07/1961;dep.andredepaula@camara.leg.br;74471;ANDRÉ CARLOS ALVES DE PAULA FILHO;André de Paula ;PSD;masculino;PE
+26;Titular;12/06/1970;dep.rodrigomaia@camara.leg.br;74693;RODRIGO FELINTO IBARRA EPITÁCIO MAIA;Rodrigo Maia ;DEM;masculino;RJ
+27;Titular;12/07/1958;dep.pompeodemattos@camara.leg.br;73486;DARCI POMPEO DE MATTOS;Pompeo de Mattos ;PDT;masculino;RS
+28;Titular;18/01/1960;dep.henriquefontana@camara.leg.br;73482;HENRIQUE FONTANA JÚNIOR;Henrique Fontana ;PT;masculino;RS
+29;Titular;30/11/1934;dep.luizaerundina@camara.leg.br;74784;LUIZA ERUNDINA DE SOUSA;Luiza Erundina ;PSOL;feminino;SP
+30;Titular;25/03/1952;dep.nilsonpinto@camara.leg.br;74352;NILSON PINTO DE OLIVEIRA;Nilson Pinto ;PSDB;masculino;PA
+31;Titular;18/11/1966;dep.juliodelgado@camara.leg.br;73586;JÚLIO CÉSAR DELGADO;Júlio Delgado ;PSB;masculino;MG
+32;Titular;18/02/1950;dep.osmarterra@camara.leg.br;73692;OSMAR GASPARINI TERRA;Osmar Terra ;MDB;masculino;RS
+33;Titular;17/12/1970;dep.giacobo@camara.leg.br;74383;FERNANDO LÚCIO GIACOBO;Giacobo ;PL;masculino;PR
+34;Titular;19/03/1965;dep.paulopimenta@camara.leg.br;74400;PAULO ROBERTO SEVERO PIMENTA;Paulo Pimenta ;PT;masculino;RS
+35;Titular;22/11/1966;dep.mariadorosario@camara.leg.br;74398;MARIA DO ROSÁRIO NUNES;Maria do Rosário ;PT;feminino;RS
+36;Titular;28/09/1950;dep.boscocosta@camara.leg.br;74052;JOÃO BOSCO DA COSTA;Bosco Costa ;PL;masculino;SE
+37;Titular;08/04/1956;dep.vicentinho@camara.leg.br;74283;VICENTE PAULO DA SILVA;Vicentinho ;PT;masculino;SP
+38;Titular;09/07/1956;dep.gilbertonascimento@camara.leg.br;74270;GILBERTO NASCIMENTO SILVA;Gilberto Nascimento ;PSC;masculino;SP
+39;Titular;31/03/1963;dep.carlossampaio@camara.leg.br;74262;CARLOS HENRIQUE FOCESI SAMPAIO;Carlos Sampaio ;PSDB;masculino;SP
+40;Titular;18/06/1976;dep.odaircunha@camara.leg.br;74159;ODAIR JOSÉ DA CUNHA;Odair Cunha ;PT;masculino;MG
+41;Titular;02/04/1973;dep.reginaldolopes@camara.leg.br;74161;REGINALDO LÁZARO DE OLIVEIRA LOPES;Reginaldo Lopes ;PT;masculino;MG
+42;Titular;26/01/1952;dep.patrusananias@camara.leg.br;74160;PATRUS ANANIAS DE SOUSA;Patrus Ananias ;PT;masculino;MG
+43;Titular;09/10/1951;dep.leonardomonteiro@camara.leg.br;74156;JOSÉ LEONARDO COSTA MONTEIRO;Leonardo Monteiro ;PT;masculino;MG
+44;Titular;22/01/1964;dep.vanderloubet@camara.leg.br;74376;VANDER LUIZ DOS SANTOS LOUBET;Vander Loubet ;PT;masculino;MS
+45;Titular;10/06/1957;dep.wilsonsantiago@camara.leg.br;74044;JOSÉ WILSON SANTIAGO;Wilson Santiago ;PTB;masculino;PB
+46;Titular;28/12/1964;dep.perpetuaalmeida@camara.leg.br;73943;MARIA PERPÉTUA DE ALMEIDA;Perpétua Almeida ;PCdoB;feminino;AC
+47;Titular;06/02/1956;dep.rubensotoni@camara.leg.br;74371;RUBENS OTONI GOMIDE;Rubens Otoni ;PT;masculino;GO
+48;Titular;28/12/1962;dep.joaocampos@camara.leg.br;74366;JOÃO CAMPOS DE ARAÚJO;João Campos ;REPUBLICANOS;masculino;GO
+49;Titular;30/09/1954;dep.marioheringer@camara.leg.br;74158;MÁRIO LÚCIO HERINGER;Mário Heringer ;PDT;masculino;MG
+50;Titular;10/11/1966;dep.andrefigueiredo@camara.leg.br;133439;ANDRÉ PEIXOTO FIGUEIREDO LIMA;André Figueiredo ;PDT;masculino;CE
+51;Titular;25/04/1962;dep.afonsohamm@camara.leg.br;136811;JOSÉ ALFONSO EBERT HAMM;Afonso Hamm ;PP;masculino;RS
+52;Titular;20/06/1969;dep.betofaro@camara.leg.br;141335;JOSÉ ROBERTO OLIVEIRA FARO;Beto Faro ;PT;masculino;PA
+53;Titular;08/05/1955;dep.arnaldojardim@camara.leg.br;141391;ARNALDO CALIL PEREIRA JARDIM;Arnaldo Jardim ;CIDADANIA;masculino;SP
+54;Titular;08/06/1963;dep.bilacpinto@camara.leg.br;141513;OLAVO BILAC PINTO NETO;Bilac Pinto ;DEM;masculino;MG
+55;Titular;30/08/1953;dep.celsomaldaner@camara.leg.br;141405;CELSO MALDANER;Celso Maldaner ;MDB;masculino;SC
+56;Titular;11/02/1953;dep.chicodangelo@camara.leg.br;141439;FRANCISCO JOSÉ D'ANGELO PINTO;Chico D'Angelo ;PDT;masculino;RJ
+57;Titular;21/07/1955;dep.dagobertonogueira@camara.leg.br;141411;DAGOBERTO NOGUEIRA FILHO;Dagoberto Nogueira ;PDT;masculino;MS
+58;Titular;04/01/1952;dep.ediolopes@camara.leg.br;141417;ÉDIO VIEIRA LOPES;Edio Lopes ;PL;masculino;RR
+59;Titular;17/10/1972;dep.eduardodafonte@camara.leg.br;141421;EDUARDO HENRIQUE DA FONTE DE ALBUQUERQUE SILVA;Eduardo da Fonte ;PP;masculino;PE
+60;Titular;18/03/1979;dep.efraimfilho@camara.leg.br;141422;EFRAIM DE ARAÚJO MORAIS FILHO;Efraim Filho ;DEM;masculino;PB
+61;Titular;01/09/1977;dep.fabiofaria@camara.leg.br;141428;FÁBIO SALUSTINO MESQUITA DE FARIA;Fábio Faria ;PSD;masculino;RN
+62;Titular;22/12/1961;dep.fabioramalho@camara.leg.br;141427;FÁBIO AUGUSTO RAMALHO DOS SANTOS;Fábio Ramalho ;MDB;masculino;MG
+63;Titular;28/02/1984;dep.fernandocoelhofilho@camara.leg.br;141431;FERNANDO BEZERRA DE SOUZA COELHO FILHO;Fernando Coelho Filho ;DEM;masculino;PE
+64;Titular;17/11/1949;dep.flavianomelo@camara.leg.br;141434;FLAVIANO FLÁVIO BAPTISTA DE MELO;Flaviano Melo ;MDB;masculino;AC
+65;Titular;06/08/1962;dep.hugoleal@camara.leg.br;141450;HUGO LEAL MELO DA SILVA;Hugo Leal ;PSD;masculino;RJ
+66;Titular;20/09/1953;dep.joaomaia@camara.leg.br;141459;JOÃO DA SILVA MAIA;João Maia ;PL;masculino;RN
+67;Titular;21/02/1957;dep.joseairtonfelixcirilo@camara.leg.br;141464;JOSÉ AIRTON FÉLIX CIRILO DA SILVA;José Airton Félix Cirilo ;PT;masculino;CE
+68;Titular;13/02/1957;dep.joseguimaraes@camara.leg.br;141470;JOSÉ NOBRE GUIMARÃES;José Guimarães ;PT;masculino;CE
+69;Titular;30/01/1959;dep.mauronazif@camara.leg.br;141508;MAURO NAZIF RASUL;Mauro Nazif ;PSB;masculino;RO
+70;Titular;24/02/1956;dep.paulopereiradasilva@camara.leg.br;141518;PAULO PEREIRA DA SILVA;Paulo Pereira da Silva ;SOLIDARIEDADE;masculino;SP
+71;Titular;21/06/1963;dep.pauloabiackel@camara.leg.br;141516;PAULO ABI-ACKEL;Paulo Abi-Ackel;PSDB;masculino;MG
+72;Titular;06/05/1961;dep.pauloteixeira@camara.leg.br;141488;LUIZ PAULO TEIXEIRA FERREIRA;Paulo Teixeira ;PT;masculino;SP
+73;Titular;06/06/1964;dep.raulhenry@camara.leg.br;141523;RAUL JEAN LOUIS HENRY JÚNIOR;Raul Henry ;MDB;masculino;PE
+74;Titular;15/07/1971;dep.rodrigodecastro@camara.leg.br;141531;RODRIGO BATISTA DE CASTRO;Rodrigo de Castro ;PSDB;masculino;MG
+75;Titular;20/05/1950;dep.vanderleimacris@camara.leg.br;141553;VANDERLEI MACRIS;Vanderlei Macris ;PSDB;masculino;SP
+76;Titular;07/01/1966;dep.viniciuscarvalho@camara.leg.br;141555;VINICIUS RAPOZO DE CARVALHO;Vinicius Carvalho ;REPUBLICANOS;masculino;SP
+77;Titular;08/06/1959;dep.carloszarattini@camara.leg.br;141398;CARLOS ALBERTO ROLIM ZARATTINI;Carlos Zarattini ;PT;masculino;SP
+78;Titular;07/11/1968;dep.nerigeller@camara.leg.br;146307;NERI GELLER;Neri Geller ;PP;masculino;MT
+79;Titular;15/04/1959;dep.laerciooliveira@camara.leg.br;151208;LAERCIO JOSÉ DE OLIVEIRA;Laercio Oliveira ;PP;masculino;SE
+80;Titular;27/05/1960;dep.robertoalves@camara.leg.br;152610;BENEDITO ROBERTO ALVES FERREIRA;Roberto Alves ;REPUBLICANOS;masculino;SP
+81;Titular;26/06/1982;dep.glauberbraga@camara.leg.br;152605;GLAUBER DE MEDEIROS BRAGA;Glauber Braga ;PSOL;masculino;RJ
+82;Titular;16/09/1962;dep.miltonvieira@camara.leg.br;154178;MILTON VIEIRA PINTO;Milton Vieira ;REPUBLICANOS;masculino;SP
+83;Titular;25/06/1969;dep.arthurlira@camara.leg.br;160541;ARTHUR CÉSAR PEREIRA DE LIRA;Arthur Lira ;PP;masculino;AL
+84;Titular;21/06/1973;dep.professoramarcivania@camara.leg.br;160641;MARCIVANIA DO SOCORRO DA ROCHA FLEXA;Professora Marcivania ;PCdoB;feminino;AP
+85;Titular;16/08/1979;dep.luizcarlos@camara.leg.br;160645;LUIZ CARLOS GOMES DOS SANTOS JUNIOR;Luiz Carlos ;PSDB;masculino;AP
+86;Titular;13/03/1963;dep.geneciasnoronha@camara.leg.br;160669;GENECIAS MATEUS NORONHA;Genecias Noronha ;SOLIDARIEDADE;masculino;CE
+87;Titular;29/04/1988;dep.domingosneto@camara.leg.br;143632;DOMINGOS GOMES DE AGUIAR NETO;Domingos Neto ;PSD;masculino;CE
+88;Titular;15/08/1957;dep.erikakokay@camara.leg.br;160575;ÉRIKA JUCÁ KOKAY;Erika Kokay ;PT;feminino;DF
+89;Titular;23/02/1970;dep.lauriete@camara.leg.br;160534;LAURIETE RODRIGUES DE JESUS;Lauriete ;PL;feminino;ES
+90;Titular;26/04/1969;dep.flaviamorais@camara.leg.br;160598;FLÁVIA CARREIRO ALBUQUERQUE MORAIS;Flávia Morais ;PDT;feminino;GO
+91;Titular;23/05/1973;dep.dimasfabiano@camara.leg.br;160599;DIMAS FABIANO TOLEDO JÚNIOR;Dimas Fabiano ;PP;masculino;MG
+92;Titular;11/05/1963;dep.zesilva@camara.leg.br;160632;JOSÉ SILVA SOARES;Zé Silva ;SOLIDARIEDADE;masculino;MG
+93;Titular;28/02/1967;dep.padrejoao@camara.leg.br;160556;JOÃO CARLOS SIQUEIRA;Padre João ;PT;masculino;MG
+94;Titular;24/08/1975;dep.welitonprado@camara.leg.br;160518;WELITON FERNANDES PRADO;Weliton Prado ;PROS;masculino;MG
+95;Titular;20/05/1971;dep.erosbiondini@camara.leg.br;160640;EROS FERREIRA BIONDINI;Eros Biondini ;PROS;masculino;MG
+96;Titular;08/08/1977;dep.diegoandrade@camara.leg.br;160588;DIEGO LEONARDO DE ANDRADE CARVALHO;Diego Andrade ;PSD;masculino;MG
+97;Titular;25/03/1957;dep.domingossavio@camara.leg.br;160758;DOMINGOS SÁVIO CAMPOS RESENDE;Domingos Sávio ;PSDB;masculino;MG
+98;Titular;23/07/1971;dep.luistibe@camara.leg.br;160510;LUIS HENRIQUE DE OLIVEIRA RESENDE;Luis Tibé ;AVANTE;masculino;MG
+99;Titular;18/08/1969;dep.fabiotrad@camara.leg.br;160587;FÁBIO RICARDO TRAD;Fábio Trad ;PSD;masculino;MS
+100;Titular;13/02/1969;dep.aguinaldoribeiro@camara.leg.br;160527;AGUINALDO VELLOSO BORGES RIBEIRO;Aguinaldo Ribeiro ;PP;masculino;PB
+101;Titular;11/09/1989;dep.hugomotta@camara.leg.br;160674;HUGO MOTTA WANDERLEY DA NÓBREGA;Hugo Motta ;REPUBLICANOS;masculino;PB
+102;Titular;17/08/1970;dep.ruycarneiro@camara.leg.br;160635;RUY MANUEL CARNEIRO BARBOSA DE ACA BELCHIOR;Ruy Carneiro ;PSDB;masculino;PB
+103;Titular;22/10/1962;dep.augustocoutinho@camara.leg.br;160665;AUGUSTO RODRIGUES COUTINHO DE MELO;Augusto Coutinho ;SOLIDARIEDADE;masculino;PE
+104;Titular;21/04/1967;dep.danilocabral@camara.leg.br;160528;DANILO JORGE DE BARROS CABRAL;Danilo Cabral ;PSB;masculino;PE
+105;Titular;12/09/1962;dep.pastoreurico@camara.leg.br;160642;FRANCISCO EURICO DA SILVA;Pastor Eurico ;PATRIOTA;masculino;PE
+106;Titular;23/04/1966;dep.iracemaportella@camara.leg.br;67138;IRACEMA MARIA PORTELLA NUNES NOGUEIRA LIMA;Iracema Portella ;PP;feminino;PI
+107;Titular;09/09/1961;dep.assiscarvalho@camara.leg.br;159237;FRANCISCO DE ASSIS CARVALHO GONÇALVES;Assis Carvalho ;PT;masculino;PI
+108;Titular;21/06/1978;dep.zecadirceu@camara.leg.br;160592;JOSÉ CARLOS BECKER DE OLIVEIRA E SILVA;Zeca Dirceu ;PT;masculino;PR
+109;Titular;28/10/1971;dep.alessandromolon@camara.leg.br;160511;ALESSANDRO LUCCIOLA MOLON;Alessandro Molon ;PSB;masculino;RJ
+110;Titular;29/06/1972;dep.pedropaulo@camara.leg.br;122158;PEDRO PAULO CARVALHO TEIXEIRA;Pedro Paulo ;DEM;masculino;RJ
+111;Titular;17/02/1979;dep.aureoribeiro@camara.leg.br;160512;AUREO LIDIO MOREIRA RIBEIRO;Aureo Ribeiro ;SOLIDARIEDADE;masculino;RJ
+112;Titular;03/09/1983;dep.jhonatandejesus@camara.leg.br;160531;JOHNATHAN PEREIRA DE JESUS;Jhonatan de Jesus ;REPUBLICANOS;masculino;RR
+113;Titular;20/01/1976;dep.jeronimogoergen@camara.leg.br;160570;JERÔNIMO PIZZOLOTTO GOERGEN;Jerônimo Goergen ;PP;masculino;RS
+114;Titular;23/06/1960;dep.giovanicherini@camara.leg.br;160673;GIOVANI CHERINI;Giovani Cherini ;PL;masculino;RS
+115;Titular;05/02/1962;dep.bohngass@camara.leg.br;160538;ELVINO JOSÉ BOHN GASS;Bohn Gass ;PT;masculino;RS
+116;Titular;21/09/1964;dep.marcon@camara.leg.br;160535;DIONILSO MATEUS MARCON;Marcon ;PT;masculino;RS
+117;Titular;18/04/1973;dep.danrleidedeushinterholz@camara.leg.br;160552;DANRLEI DE DEUS HINTERHOLZ;Danrlei de Deus Hinterholz ;PSD;masculino;RS
+118;Titular;04/06/1954;dep.alceumoreira@camara.leg.br;160559;ALCEU MOREIRA DA SILVA;Alceu Moreira ;MDB;masculino;RS
+119;Titular;10/03/1963;dep.pedrouczai@camara.leg.br;160604;PEDRO FRANCISCO UCZAI;Pedro Uczai ;PT;masculino;SC
+120;Titular;27/01/1953;dep.rogeriopeninhamendonca@camara.leg.br;160651;ROGÉRIO MENDONÇA;Rogério Peninha Mendonça ;MDB;masculino;SC
+121;Titular;12/10/1972;dep.pr.marcofeliciano@camara.leg.br;160601;MARCO ANTÔNIO FELICIANO;Pr. Marco Feliciano ;PODE;masculino;SP
+122;Titular;01/05/1965;dep.tiririca@camara.leg.br;160976;FRANCISCO EVERARDO TIRIRICA OLIVEIRA SILVA;Tiririca ;PL;masculino;SP
+123;Titular;14/02/1955;dep.paulofreirecosta@camara.leg.br;160558;PAULO ROBERTO FREIRE DA COSTA;Paulo Freire Costa ;PL;masculino;SP
+124;Titular;18/04/1989;dep.alexandreleite@camara.leg.br;160545;ALEXANDRE LEITE DA SILVA;Alexandre Leite ;DEM;masculino;SP
+125;Titular;14/10/1982;dep.guilhermemussi@camara.leg.br;160667;GUILHERME MUSSI FERREIRA;Guilherme Mussi ;PP;masculino;SP
+126;Titular;18/04/1966;dep.robertodelucena@camara.leg.br;160653;ROBERTO ALVES DE LUCENA;Roberto de Lucena ;PODE;masculino;SP
+127;Titular;01/08/1968;dep.ricardoizar@camara.leg.br;160655;RICARDO IZAR JUNIOR;Ricardo Izar ;PP;masculino;SP
+128;Titular;28/04/1983;dep.brunafurlan@camara.leg.br;160589;BRUNA DIAS FURLAN;Bruna Furlan ;PSDB;feminino;SP
+129;Titular;01/10/1964;dep.professoradorinhaseabrarezende@camara.leg.br;160639;MARIA AUXILIADORA SEABRA REZENDE;Professora Dorinha Seabra Rezende ;DEM;feminino;TO
+130;Titular;09/04/1949;dep.luiznishimori@camara.leg.br;162332;LUIZ HILOSHI NISHIMORI;Luiz Nishimori ;PL;masculino;PR
+131;Titular;26/07/1979;dep.mauriciodziedricki@camara.leg.br;75431;MAURÍCIO ALEXANDRE DZIEDRICKI;Maurício Dziedricki ;PTB;masculino;RS
+132;Titular;03/03/1976;dep.stefanoaguiar@camara.leg.br;92776;STEFANO AGUIAR DOS SANTOS;Stefano Aguiar ;PSD;masculino;MG
+133;Titular;28/11/1962;dep.delegadowaldir@camara.leg.br;164359;WALDIR SOARES DE OLIVEIRA;Delegado Waldir ;PSL;masculino;GO
+134;Titular;06/10/1962;dep.carmenzanotto@camara.leg.br;164360;CARMEN EMÍLIA BONFÁ ZANOTTO;Carmen Zanotto ;CIDADANIA;feminino;SC
+135;Titular;26/10/1948;dep.magdamofatto@camara.leg.br;166402;MAGDA MOFATTO HON;Magda Mofatto ;PL;feminino;GO
+136;Titular;15/09/1957;dep.paulao@camara.leg.br;171617;PAULO FERNANDO DOS SANTOS;Paulão ;PT;masculino;AL
+137;Titular;10/06/1950;dep.margaridasalomao@camara.leg.br;171619;MARIA MARGARIDA MARTINS SALOMÃO;Margarida Salomão ;PT;feminino;MG
+138;Titular;15/04/1977;dep.fabioreis@camara.leg.br;171623;FABIO DE ALMEIDA REIS;Fabio Reis ;MDB;masculino;SE
+139;Titular;31/05/1962;dep.subtenentegonzaga@camara.leg.br;177282;LUIZ GONZAGA RIBEIRO;Subtenente Gonzaga ;PDT;masculino;MG
+140;Titular;09/12/1954;dep.ossesiosilva@camara.leg.br;204422;OSSESIO JOSE DA SILVA;Ossesio Silva ;REPUBLICANOS;masculino;PE
+141;Titular;11/01/1958;dep.rogeriocorreia@camara.leg.br;204480;ROGÉRIO CORREIA DE MOURA BAPTISTA;Rogério Correia ;PT;masculino;MG
+142;Titular;04/10/1966;dep.capitaoaugusto@camara.leg.br;178829;JOSE AUGUSTO ROSA;Capitão Augusto ;PL;masculino;SP
+143;Titular;10/11/1970;dep.andreabdon@camara.leg.br;178831;ANDRE DOS SANTOS ABDON;André Abdon ;PP;masculino;AP
+144;Titular;20/06/1969;dep.valdevannoventa@camara.leg.br;204385;José Valdevan de Jesus Santos;Valdevan Noventa ;PSC;masculino;SE
+145;Titular;20/12/1975;dep.leandre@camara.leg.br;178832;LEANDRE DAL PONTE;Leandre ;PV;feminino;PR
+146;Titular;29/11/1975;dep.alexandreserfiotis@camara.leg.br;178833;ALEXANDRE AUGUSTUS SERFIOTIS;Alexandre Serfiotis ;PSD;masculino;RJ
+147;Titular;07/07/1982;dep.marcelocalero@camara.leg.br;204433;MARCELO CALERO FARIA GARCIA;Marcelo Calero ;CIDADANIA;masculino;RJ
+148;Titular;08/01/1950;dep.afonsomotta@camara.leg.br;178835;AFONSO ANTUNES DA MOTTA;Afonso Motta ;PDT;masculino;RS
+149;Titular;10/03/1960;dep.aecioneves@camara.leg.br;74646;AÉCIO NEVES DA CUNHA;Aécio Neves ;PSDB;masculino;MG
+150;Titular;18/10/1944;dep.pauloramos@camara.leg.br;133968;Paulo Sérgio Ramos Barboza;Paulo Ramos ;PDT;masculino;RJ
+151;Titular;29/11/1944;dep.lucianobivar@camara.leg.br;74478;LUCIANO CALDAS BIVAR;Luciano Bivar ;PSL;masculino;PE
+152;Titular;26/11/1943;dep.ruifalcao@camara.leg.br;73604;RUI GOETHE DA COSTA FALCÃO;Rui Falcão ;PT;masculino;SP
+153;Titular;23/10/1976;dep.alanrick@camara.leg.br;178836;ALAN RICK MIRANDA;Alan Rick ;DEM;masculino;AC
+154;Titular;28/11/1980;dep.jessicasales@camara.leg.br;178839;JESSICA ROJAS SALES;Jéssica Sales ;MDB;feminino;AC
+155;Titular;22/07/1987;dep.jhc@camara.leg.br;178842;JOAO HENRIQUE HOLANDA  CALDAS;Jhc;PSB;masculino;AL
+156;Titular;28/11/1979;dep.marxbeltrao@camara.leg.br;178843;MARX BELTRÃO LIMA SIQUEIRA;Marx Beltrão ;PSD;masculino;AL
+157;Titular;18/11/1968;dep.luiziannelins@camara.leg.br;178866;LUIZIANNE DE OLIVEIRA LINS;Luizianne Lins ;PT;feminino;CE
+158;Titular;02/04/1972;dep.evairvieirademelo@camara.leg.br;178871;EVAIR VIEIRA DE MELO;Evair Vieira de Melo ;PP;masculino;ES
+159;Titular;08/03/1964;dep.heldersalomao@camara.leg.br;178873;HELDER IGNACIO SALOMAO;Helder Salomão ;PT;masculino;ES
+160;Titular;08/05/1957;dep.sergiovidigal@camara.leg.br;178874;ANTONIO SERGIO ALVES VIDIGAL;Sergio Vidigal ;PDT;masculino;ES
+161;Titular;19/09/1959;dep.celiosilveira@camara.leg.br;178876;CELIO ANTONIO DA SILVEIRA;Célio Silveira ;PSDB;masculino;GO
+162;Titular;08/04/1987;dep.lucasvergilio@camara.leg.br;178879;LUCAS DE CASTRO SANTOS;Lucas Vergilio ;SOLIDARIEDADE;masculino;GO
+163;Titular;27/11/1959;dep.misaelvarella@camara.leg.br;178895;MISAEL ARTUR FERREIRA VARELLA;Misael Varella ;PSD;masculino;MG
+164;Titular;11/11/1979;dep.newtoncardosojr@camara.leg.br;178896;NEWTON CARDOSO JUNIOR;Newton Cardoso Jr ;MDB;masculino;MG
+165;Titular;14/12/1960;dep.delegadoedermauro@camara.leg.br;178908;EDER MAURO CARDOSO BARRA;Delegado Éder Mauro ;PSD;masculino;PA
+166;Titular;26/05/1957;dep.edmilsonrodrigues@camara.leg.br;134812;EDMILSON BRITO RODRIGUES;Edmilson Rodrigues ;PSOL;masculino;PA
+167;Titular;09/12/1957;dep.helioleite@camara.leg.br;178909;HELIO LEITE DA SILVA;Hélio Leite ;DEM;masculino;PA
+168;Titular;02/12/1961;dep.joaquimpassarinho@camara.leg.br;178910;JOAQUIM PASSARINHO PINTO DE SOUZA PORTO;Joaquim Passarinho ;PSD;masculino;PA
+169;Titular;15/08/1988;dep.pedrocunhalima@camara.leg.br;178912;PEDRO OLIVEIRA CUNHA LIMA;Pedro Cunha Lima ;PSDB;masculino;PB
+170;Titular;04/11/1978;dep.danielcoelho@camara.leg.br;178916;DANIEL PIRES COELHO;Daniel Coelho ;CIDADANIA;masculino;PE
+171;Titular;16/04/1975;dep.felipecarreras@camara.leg.br;72442;FELIPE AUGUSTO LYRA CARRERAS;Felipe Carreras ;PSB;masculino;PE
+172;Titular;18/10/1965;dep.ricardoteobaldo@camara.leg.br;178920;RICARDO TEOBALDO CAVALCANTI;Ricardo Teobaldo ;PODE;masculino;PE
+173;Titular;31/08/1968;dep.sebastiaooliveira@camara.leg.br;178921;SEBASTIAO IGNACIO DE OLIVEIRA JUNIOR;Sebastião Oliveira ;PL;masculino;PE
+174;Titular;08/04/1963;dep.tadeualencar@camara.leg.br;178922;FRANCISCO TADEU BARBOSA DE ALENCAR;Tadeu Alencar ;PSB;masculino;PE
+175;Titular;04/09/1972;dep.rejanedias@camara.leg.br;178925;REJANE RIBEIRO SOUSA DIAS;Rejane Dias ;PT;feminino;PI
+176;Titular;26/02/1989;dep.alielmachado@camara.leg.br;178927;ALIEL MACHADO BARK;Aliel Machado ;PSB;masculino;PR
+177;Titular;23/02/1960;dep.christianedesouzayared@camara.leg.br;178928;CHRISTIANE DE SOUZA YARED;Christiane de Souza Yared ;PL;feminino;PR
+178;Titular;10/10/1984;dep.diegogarcia@camara.leg.br;178929;DIEGO ALEXSANDER GONCALO PAULA GARCIA;Diego Garcia ;PODE;masculino;PR
+179;Titular;27/03/1961;dep.enioverri@camara.leg.br;132504;ENIO JOSÉ VERRI;Enio Verri ;PT;masculino;PR
+180;Titular;23/03/1955;dep.lucianoducci@camara.leg.br;178931;LUCIANO DUCCI;Luciano Ducci ;PSB;masculino;PR
+181;Titular;13/03/1971;dep.sergiosouza@camara.leg.br;178933;SERGIO DE SOUZA;Sergio Souza ;MDB;masculino;PR
+182;Titular;31/08/1950;dep.toninhowandscheer@camara.leg.br;178934;ANTONIO WANDSCHEER;Toninho Wandscheer ;PROS;masculino;PR
+183;Titular;02/07/1982;dep.clarissagarotinho@camara.leg.br;178939;CLARISSA BARROS ASSED MATHEUS DE OLIVEIRA;Clarissa Garotinho ;PROS;feminino;RJ
+184;Titular;27/12/1966;dep.rosangelagomes@camara.leg.br;178945;ROSANGELA DE SOUZA GOMES;Rosangela Gomes ;REPUBLICANOS;feminino;RJ
+185;Titular;04/12/1958;dep.sorayasantos@camara.leg.br;178946;SORAYA ALENCAR DOS SANTOS;Soraya Santos ;PL;feminino;RJ
+186;Titular;16/01/1975;dep.sostenescavalcante@camara.leg.br;178947;SOSTENES SILVA CAVALCANTE;Sóstenes Cavalcante ;DEM;masculino;RJ
+187;Titular;15/08/1986;dep.rafaelmotta@camara.leg.br;178951;RAFAEL HUETE DA MOTTA;Rafael Motta ;PSB;masculino;RN
+188;Titular;27/02/1980;dep.walteralves@camara.leg.br;178952;WALTER PEREIRA ALVES;Walter Alves ;MDB;masculino;RN
+189;Titular;05/10/1988;dep.expeditonetto@camara.leg.br;178953;EXPEDITO GONCALVES FERREIRA NETTO;Expedito Netto ;PSD;masculino;RO
+190;Titular;23/07/1969;dep.luciomosquini@camara.leg.br;178954;LUCIO ANTONIO MOSQUINI;Lucio Mosquini ;MDB;masculino;RO
+191;Titular;26/11/1986;dep.marianacarvalho@camara.leg.br;178956;MARIANA FONSECA RIBEIRO CARVALHO DE MORAES;Mariana Carvalho ;PSDB;feminino;RO
+192;Titular;19/06/1957;dep.hirangoncalves@camara.leg.br;178959;HIRAN MANUEL GONCALVES DA SILVA;Hiran Gonçalves ;PP;masculino;RR
+193;Titular;11/04/1984;dep.sheridan@camara.leg.br;178961;SHÉRIDAN ESTÉRFANY OLIVEIRA;Shéridan ;PSDB;feminino;RR
+194;Titular;13/06/1972;dep.carlosgomes@camara.leg.br;178962;ANTONIO CARLOS GOMES DA SILVA;Carlos Gomes ;REPUBLICANOS;masculino;RS
+195;Titular;25/03/1962;dep.heitorschuch@camara.leg.br;178964;HEITOR JOSE SCHUCH;Heitor Schuch ;PSB;masculino;RS
+196;Titular;30/03/1972;dep.geovaniadesa@camara.leg.br;178966;Geovânia de Sá;Geovania de Sá ;PSDB;feminino;SC
+197;Titular;24/02/1977;dep.fabiomitidieri@camara.leg.br;178969;FABIO CRUZ MITIDIERI;Fábio Mitidieri ;PSD;masculino;SE
+198;Titular;22/08/1967;dep.joaodaniel@camara.leg.br;178970;JOAO SOMARIVA DANIEL;João Daniel ;PT;masculino;SE
+199;Titular;22/08/1979;dep.alexmanente@camara.leg.br;178972;ALEX SPINELLI MANENTE;Alex Manente ;CIDADANIA;masculino;SP
+200;Titular;09/06/1972;dep.baleiarossi@camara.leg.br;178975;LUIZ FELIPE BALEIA TENUTO ROSSI;Baleia Rossi ;MDB;masculino;SP
+201;Titular;10/07/1984;dep.eduardobolsonaro@camara.leg.br;92346;EDUARDO NANTES BOLSONARO;Eduardo Bolsonaro ;PSL;masculino;SP
+202;Titular;19/09/1963;dep.eduardocury@camara.leg.br;178977;EDUARDO PEDROSA CURY;Eduardo Cury ;PSDB;masculino;SP
+203;Titular;01/06/1977;dep.faustopinato@camara.leg.br;66828;FAUSTO RUY PINATO;Fausto Pinato ;PP;masculino;SP
+204;Titular;04/08/1956;dep.herculanopassos@camara.leg.br;178981;HERCULANO CASTILHO PASSOS JUNIOR;Herculano Passos ;MDB;masculino;SP
+205;Titular;14/06/1969;dep.marcioalvino@camara.leg.br;178983;MARCIO LUIZ ALVINO DE SOUZA;Marcio Alvino ;PL;masculino;SP
+206;Titular;29/01/1964;dep.miguellombardi@camara.leg.br;178985;MIGUEL LOMBARDI;Miguel Lombardi ;PL;masculino;SP
+207;Titular;31/07/1963;dep.niltotatto@camara.leg.br;178986;NILTO IGNACIO TATTO;Nilto Tatto ;PT;masculino;SP
+208;Titular;27/05/1971;dep.orlandosilva@camara.leg.br;178987;ORLANDO SILVA DE JESUS JUNIOR;Orlando Silva ;PCdoB;masculino;SP
+209;Titular;09/02/1963;dep.samuelmoreira@camara.leg.br;178990;SAMUEL MOREIRA DA SILVA JUNIOR;Samuel Moreira ;PSDB;masculino;SP
+210;Titular;18/05/1959;dep.vitorlippi@camara.leg.br;178992;VITOR LIPPI;Vitor Lippi ;PSDB;masculino;SP
+211;Titular;21/04/1961;dep.carloshenriquegaguim@camara.leg.br;178993;CARLOS HENRIQUE AMORIM;Carlos Henrique Gaguim ;DEM;masculino;TO
+212;Titular;15/12/1963;dep.dulcemiranda@camara.leg.br;178994;DULCE FERREIRA PAGANI MIRANDA;Dulce Miranda ;MDB;feminino;TO
+213;Titular;11/04/1985;dep.vicentinhojunior@camara.leg.br;137070;VICENTE ALVES DE OLIVEIRA JUNIOR;Vicentinho Júnior ;PL;masculino;TO
+214;Titular;10/04/1957;dep.giovanifeltes@camara.leg.br;178996;GIOVANI BATISTA FELTES;Giovani Feltes ;MDB;masculino;RS
+215;Titular;06/06/1978;dep.mosesrodrigues@camara.leg.br;178997;MOSES HAENDEL MELO RODRIGUES;Moses Rodrigues ;MDB;masculino;CE
+216;Titular;12/06/1987;dep.marceloaro@camara.leg.br;146788;MARCELO GUILHERME DE ARO FERREIRA;Marcelo Aro ;PP;masculino;MG
+217;Titular;23/05/1979;dep.marciobiolchi@camara.leg.br;179001;MARCIO DELLA VALLE BIOLCHI;Márcio Biolchi ;MDB;masculino;RS
+218;Titular;17/09/1953;dep.dra.vandamilani@camara.leg.br;204434;VANDA DENIR MILANI NOGUEIRA;Dra. Vanda Milani ;SOLIDARIEDADE;feminino;AC
+219;Titular;07/01/1988;dep.nivaldoalbuquerque@camara.leg.br;194260;NIVALDO FERREIRA DE ALBUQUERQUE NETO;Nivaldo Albuquerque ;PTB;masculino;AL
+220;Titular;02/04/1975;dep.vaidonoliveira@camara.leg.br;195866;FRANCISCO VAIDON OLIVEIRA;Vaidon Oliveira ;PROS;masculino;CE
+221;Titular;03/05/1961;dep.dr.jaziel@camara.leg.br;204481;JAZIEL PEREIRA DE SOUSA;Dr. Jaziel ;PL;masculino;CE
+222;Titular;07/09/1959;dep.normaayub@camara.leg.br;66179;NORMA AYUB ALVES;Norma Ayub ;DEM;feminino;ES
+223;Titular;08/02/1961;dep.josemarioschreiner@camara.leg.br;204386;JOSE MARIO SCHREINER;Jose Mario Schreiner ;DEM;masculino;GO
+224;Titular;25/09/1949;dep.dr.luizovando@camara.leg.br;204351;LUIZ ALBERTO OVANDO;Dr. Luiz Ovando ;PSL;masculino;MS
+225;Titular;15/08/1984;dep.euclydespettersen@camara.leg.br;204482;EUCLYDES MARCOS PETTERSEN NETO;Euclydes Pettersen ;PSC;masculino;MG
+226;Titular;01/05/1957;dep.vilsondafetaemg@camara.leg.br;204483;VILSON LUIZ DA SILVA;Vilson da Fetaemg ;PSB;masculino;MG
+227;Titular;20/04/1981;dep.pauloeduardomartins@camara.leg.br;193726;PAULO EDUARDO LIMA MARTINS;Paulo Eduardo Martins ;PSC;masculino;PR
+228;Titular;06/11/1963;dep.sargentofahur@camara.leg.br;204387;GILSON CARDOSO FAHUR;Sargento Fahur ;PSD;masculino;PR
+229;Titular;17/09/1976;dep.fernandomonteiro@camara.leg.br;92699;FERNANDO MONTEIRO DE ALBUQUERQUE;Fernando Monteiro ;PP;masculino;PE
+230;Titular;27/02/1953;dep.flavionogueira@camara.leg.br;191923;FLÁVIO RODRIGUES NOGUEIRA;Flávio Nogueira ;PDT;masculino;PI
+231;Titular;22/07/1955;dep.lourivalgomes@camara.leg.br;196358;LOURIVAL GOMES DE ALMEIDA;Lourival Gomes ;PSL;masculino;RJ
+232;Titular;09/01/1957;dep.bibonunes@camara.leg.br;204388;ALCIBIO MESQUITA BIBO NUNES;Bibo Nunes ;PSL;masculino;RS
+233;Titular;06/08/1954;dep.generalpeternelli@camara.leg.br;204484;ROBERTO SEBASTIÃO PETERNELLI JUNIOR;General Peternelli ;PSL;masculino;SP
+234;Titular;24/04/1959;dep.luizcarlosmotta@camara.leg.br;204485;LUIZ CARLOS MOTTA;Luiz Carlos Motta ;PL;masculino;SP
+235;Titular;10/06/1973;dep.jesussergio@camara.leg.br;204435;JESUS SERGIO DE MENEZES;Jesus Sérgio ;PDT;masculino;AC
+236;Titular;30/10/1976;dep.isnaldobulhoesjr@camara.leg.br;204436;ISNALDO BULHOES BARROS JUNIOR;Isnaldo Bulhões Jr. ;MDB;masculino;AL
+237;Titular;06/02/1970;dep.severinopessoa@camara.leg.br;204437;SEVERINO DE LIRA PESSÔA;Severino Pessoa ;REPUBLICANOS;masculino;AL
+238;Titular;29/01/1962;dep.sergiotoledo@camara.leg.br;204438;SERGIO TOLEDO DE ALBUQUERQUE;Sergio Toledo ;PL;masculino;AL
+239;Titular;23/05/1972;dep.camilocapiberibe@camara.leg.br;204352;CARLOS CAMILO GÓES CAPIBERIBE;Camilo Capiberibe ;PSB;masculino;AP
+240;Titular;25/11/1980;dep.alinegurgel@camara.leg.br;204353;ALINE PARANHOS VARONIL GURGEL;Aline Gurgel ;REPUBLICANOS;feminino;AP
+241;Titular;09/03/1959;dep.maurobenevidesfilho@camara.leg.br;204486;CARLOS MAURO BENEVIDES FILHO;Mauro Benevides Filho ;PDT;masculino;CE
+242;Titular;21/01/1979;dep.capitaowagner@camara.leg.br;204487;WAGNER SOUSA GOMES;Capitão Wagner ;PROS;masculino;CE
+243;Titular;19/06/1987;dep.celiostudart@camara.leg.br;204488;CELIO STUDART BARBOSA;Célio Studart ;PV;masculino;CE
+244;Titular;15/02/1970;dep.roberiomonteiro@camara.leg.br;204489;MARCOS ROBERIO RIBEIRO MONTEIRO;Robério Monteiro ;PDT;masculino;CE
+245;Titular;21/01/1980;dep.flaviaarruda@camara.leg.br;204354;FLÁVIA CAROLINA PÉRES;Flávia Arruda ;PL;feminino;DF
+246;Titular;02/06/1971;dep.davitoria@camara.leg.br;204355;JOSIAS MARIO DA VITORIA;Da Vitoria ;CIDADANIA;masculino;ES
+247;Titular;04/12/1976;dep.amaroneto@camara.leg.br;204356;AMARO ROCHA NASCIMENTO NETO;Amaro Neto ;REPUBLICANOS;masculino;ES
+248;Titular;04/07/1966;dep.eliasvaz@camara.leg.br;204389;ELIAS VAZ DE ANDRADE;Elias Vaz ;PSB;masculino;GO
+249;Titular;25/10/1953;dep.professoralcides@camara.leg.br;204390;ALCIDES RIBEIRO FILHO;Professor Alcides ;PP;masculino;GO
+250;Titular;19/09/1960;dep.josenelto@camara.leg.br;204391;JOSÉ NELTO LAGARES DAS MERCEZ;José Nelto ;PODE;masculino;GO
+251;Titular;15/03/1969;dep.franciscojr@camara.leg.br;204392;FRANCISCO RODRIGUES VALE JUNIOR;Francisco Jr. ;PSD;masculino;GO
+252;Titular;27/12/1984;dep.charllesevangelista@camara.leg.br;204490;CHARLLES THOMACELLI EVANGELISTA;Charlles Evangelista ;PSL;masculino;MG
+253;Titular;06/08/1966;dep.gilbertoabramo@camara.leg.br;204491;GILBERTO APARECIDO ABRAMO;Gilberto Abramo ;REPUBLICANOS;masculino;MG
+254;Titular;01/10/1970;dep.pauloguedes@camara.leg.br;204492;PAULO JOSE CARLOS GUEDES;Paulo Guedes ;PT;masculino;MG
+255;Titular;15/12/1981;dep.greyceelias@camara.leg.br;198197;GREYCE DE QUEIROZ ELIAS;Greyce Elias ;AVANTE;feminino;MG
+256;Titular;17/10/1966;dep.lafayettedeandrada@camara.leg.br;98057;LAFAYETTE LUIZ DOORGAL DE ANDRADA;Lafayette de Andrada ;REPUBLICANOS;masculino;MG
+257;Titular;10/03/1967;dep.emidinhomadeira@camara.leg.br;161550;EMIDIO ALVES MADEIRA JUNIOR;Emidinho Madeira ;PSB;masculino;MG
+258;Titular;12/07/1977;dep.fredcosta@camara.leg.br;204494;FREDERICO BORGES DA COSTA;Fred Costa ;PATRIOTA;masculino;MG
+259;Titular;20/02/1978;dep.rosemodesto@camara.leg.br;204357;ROSIANE MODESTO  DE OLIVEIRA;Rose Modesto ;PSDB;feminino;MS
+260;Titular;14/11/1977;dep.betopereira@camara.leg.br;204358;HUMBERTO REZENDE PEREIRA;Beto Pereira ;PSDB;masculino;MS
+261;Titular;14/06/1978;dep.dr.leonardo@camara.leg.br;204439;LEONARDO RIBEIRO ALBUQUERQUE;Dr. Leonardo ;SOLIDARIEDADE;masculino;MT
+262;Titular;16/03/1959;dep.airtonfaleiro@camara.leg.br;204495;AIRTON LUIZ FALEIRO;Airton Faleiro ;PT;masculino;PA
+263;Titular;29/08/1978;dep.celsosabino@camara.leg.br;204496;CELSO SABINO DE OLIVEIRA;Celso Sabino ;PSDB;masculino;PA
+264;Titular;13/07/1967;dep.juniorferrari@camara.leg.br;204497;JOÃO FERRARI JÚNIOR;Júnior Ferrari ;PSD;masculino;PA
+265;Titular;09/01/1982;dep.olivalmarques@camara.leg.br;204498;OLIVAL HENRIQUE MARQUES DE SOUZA;Olival Marques ;DEM;masculino;PA
+266;Titular;12/09/1981;dep.cassioandrade@camara.leg.br;204499;CASSIO COELHO ANDRADE;Cássio Andrade ;PSB;masculino;PA
+267;Titular;16/02/1968;dep.eduardocosta@camara.leg.br;204500;JOSE EDUARDO PEREIRA DA COSTA;Eduardo Costa ;PTB;masculino;PA
+268;Titular;03/03/1944;dep.freianastacioribeiro@camara.leg.br;204393;ANTONIO RIBEIRO;Frei Anastacio Ribeiro ;PT;masculino;PB
+269;Titular;14/04/1975;dep.gervasiomaia@camara.leg.br;204394;GERVÁSIO AGRIPINO MAIA;Gervásio Maia ;PSB;masculino;PB
+270;Titular;10/12/1972;dep.andreferreira@camara.leg.br;204423;ANDRÉ FERREIRA RODRIGUES;André Ferreira ;PSC;masculino;PE
+271;Titular;12/11/1987;dep.tuliogadelha@camara.leg.br;157130;TÚLIO GADÊLHA SALES DE MELO;Túlio Gadêlha ;PDT;masculino;PE
+272;Titular;05/03/1982;dep.silviocostafilho@camara.leg.br;204425;SILVIO SERAFIM COSTA FILHO;Silvio Costa Filho ;REPUBLICANOS;masculino;PE
+273;Titular;12/03/1961;dep.margaretecoelho@camara.leg.br;204430;MARGARETE DE CASTRO COELHO;Margarete Coelho ;PP;feminino;PI
+274;Titular;19/09/1991;dep.marcosaureliosampaio@camara.leg.br;204431;MARCOS AURÉLIO  PÁDUA RIBEIRO GONÇALVES DE SAMPAIO;Marcos Aurélio Sampaio ;MDB;masculino;PI
+275;Titular;04/06/1983;dep.pedrolupion@camara.leg.br;204395;PEDRO DEBONI LUPION MELLO;Pedro Lupion ;DEM;masculino;PR
+276;Titular;01/03/1959;dep.vermelho@camara.leg.br;204396;NELSI COGUETTO MARIA;Vermelho ;PSD;masculino;PR
+277;Titular;07/08/1971;dep.bocaaberta@camara.leg.br;204397;EMERSON MIGUEL PETRIV;Boca Aberta ;PROS;masculino;PR
+278;Titular;02/10/1991;dep.felipefrancischini@camara.leg.br;204398;LUIS FELIPE BONATTO FRANCISCHINI;Felipe Francischini ;PSL;masculino;PR
+279;Titular;12/09/1954;dep.schiavinato@camara.leg.br;204399;JOSE CARLOS SCHIAVINATO;Schiavinato ;PP;masculino;PR
+280;Titular;26/07/1979;dep.alinesleutjes@camara.leg.br;204400;ALINE SLEUTJES;Aline Sleutjes ;PSL;feminino;PR
+281;Titular;06/09/1965;dep.gleisihoffmann@camara.leg.br;107283;GLEISI HELENA HOFFMANN;Gleisi Hoffmann ;PT;feminino;PR
+282;Titular;26/04/1962;dep.christinoaureo@camara.leg.br;204440;CHRISTINO AUREO DA SILVA;Christino Aureo ;PP;masculino;RJ
+283;Titular;12/04/1967;dep.marcelofreixo@camara.leg.br;76874;MARCELO RIBEIRO FREIXO;Marcelo Freixo ;PSOL;masculino;RJ
+284;Titular;22/11/1976;dep.otonidepaula@camara.leg.br;204441;OTONI MOURA DE PAULO JUNIOR;Otoni de Paula ;PSC;masculino;RJ
+285;Titular;02/12/1980;dep.gurgel@camara.leg.br;204442;JOÃO CARLOS SOARES GURGEL;Gurgel ;PSL;masculino;RJ
+286;Titular;28/03/1969;dep.heliolopes@camara.leg.br;204444;HELIO FERNANDO BARBOSA LOPES;Helio Lopes ;PSL;masculino;RJ
+287;Titular;03/12/1974;dep.jaquelinecassol@camara.leg.br;108338;DIRLAINE JAQUELINE CASSOL;Jaqueline Cassol ;PP;feminino;RO
+288;Titular;11/01/1984;dep.leomoraes@camara.leg.br;204359;LEONARDO BARRETO DE MORAES;Léo Moraes ;PODE;masculino;RO
+289;Titular;15/01/1974;dep.silviacristina@camara.leg.br;204360;SILVIA CRISTINA AMANCIO CHAGAS;Silvia Cristina ;PDT;feminino;RO
+290;Titular;07/08/1979;dep.marcelomoraes@camara.leg.br;133810;MARCELO PIRES MORAES;Marcelo Moraes ;PTB;masculino;RS
+291;Titular;25/09/1975;dep.marlonsantos@camara.leg.br;204403;MARLON ARATOR SANTOS DA ROSA;Marlon Santos ;PDT;masculino;RS
+292;Titular;26/05/1981;dep.lucasredecker@camara.leg.br;204404;LUCAS BELLO REDECKER;Lucas Redecker ;PSDB;masculino;RS
+293;Titular;24/01/1981;dep.lizianebayer@camara.leg.br;204405;LIZIANE BAYER DA COSTA;Liziane Bayer ;PSB;feminino;RS
+294;Titular;19/12/1950;dep.pedrowestphalen@camara.leg.br;204406;PEDRO BANDARRA WESTPHALEN;Pedro Westphalen ;PP;masculino;RS
+295;Titular;08/11/1985;dep.marcelvanhattem@camara.leg.br;156190;MARCEL VAN HATTEM;Marcel van Hattem;NOVO;masculino;RS
+296;Titular;02/02/1984;dep.fernandamelchionna@camara.leg.br;204407;FERNANDA MELCHIONNA E SILVA;Fernanda Melchionna ;PSOL;feminino;RS
+297;Titular;08/03/1982;dep.carloschiodini@camara.leg.br;204361;CARLOS ALBERTO CHIODINI;Carlos Chiodini ;MDB;masculino;SC
+298;Titular;28/09/1977;dep.ricardoguidi@camara.leg.br;204362;RICARDO ZANATTA GUIDI;Ricardo Guidi ;PSD;masculino;SC
+299;Titular;08/11/1961;dep.darcidematos@camara.leg.br;116379;DARCI DE MATOS;Darci de Matos ;PSD;masculino;SC
+300;Titular;16/02/1982;dep.gustinhoribeiro@camara.leg.br;204408;LUIZ AUGUSTO CARVALHO RIBEIRO FILHO;Gustinho Ribeiro ;SOLIDARIEDADE;masculino;SE
+301;Titular;14/03/1976;dep.alencarsantanabraga@camara.leg.br;204501;ALENCAR SANTANA BRAGA;Alencar Santana Braga ;PT;masculino;SP
+302;Titular;17/08/1980;dep.juniorbozzella@camara.leg.br;204502;NICOLINO BOZZELLA JUNIOR;Júnior Bozzella ;PSL;masculino;SP
+303;Titular;14/09/1971;dep.alexandrepadilha@camara.leg.br;204503;ALEXANDRE ROCHA SANTOS PADILHA;Alexandre Padilha ;PT;masculino;SP
+304;Titular;12/12/1973;dep.cezinhademadureira@camara.leg.br;204504;ANTONIO CEZAR CORREIA FREIRE;Cezinha de Madureira ;PSD;masculino;SP
+305;Titular;16/04/1963;dep.osiresdamaso@camara.leg.br;204363;OSIRES RODRIGUES DAMASO;Osires Damaso ;PSC;masculino;TO
+306;Titular;01/09/1960;dep.eliborges@camara.leg.br;204364;ELI DIAS BORGES;Eli Borges ;SOLIDARIEDADE;masculino;TO
+307;Titular;04/08/1988;dep.tiagodimas@camara.leg.br;143084;TIAGO BRAGA PEREIRA;Tiago Dimas ;SOLIDARIEDADE;masculino;TO
+308;Titular;03/06/1982;dep.vavamartins@camara.leg.br;204505;WAGNER BACH MARTINS;Vavá Martins ;REPUBLICANOS;masculino;PA
+309;Titular;22/04/1966;dep.professorjoziel@camara.leg.br;204446;JOZIEL FERREIRA CARLOS;Professor Joziel ;PSL;masculino;RJ
+310;Titular;05/01/1995;dep.emanuelpinheironeto@camara.leg.br;198783;EMANUEL PINHEIRO DA SILVA PRIMO;Emanuel Pinheiro Neto ;PTB;masculino;MT
+311;Titular;12/04/1981;dep.gilsonmarques@camara.leg.br;204365;GILSON MARQUES VIEIRA;Gilson Marques ;NOVO;masculino;SC
+312;Titular;04/04/1972;dep.marcospereira@camara.leg.br;204506;MARCOS ANTONIO PEREIRA;Marcos Pereira ;REPUBLICANOS;masculino;SP
+313;Titular;04/11/1986;dep.danieltrzeciak@camara.leg.br;204409;DANIEL TRZECIAK DUARTE;Daniel Trzeciak ;PSDB;masculino;RS
+314;Titular;03/07/1980;dep.carlazambelli@camara.leg.br;204507;CARLA ZAMBELLI SALGADO;Carla Zambelli ;PSL;feminino;SP
+315;Titular;10/04/1982;dep.igortimo@camara.leg.br;204508;IGOR TARCIANO TIMO;Igor Timo ;PODE;masculino;MG
+316;Titular;05/02/1961;dep.flordelis@camara.leg.br;204447;FLORDELIS DOS SANTOS DE SOUZA;Flordelis ;PSD;feminino;RJ
+317;Titular;20/11/1983;dep.aureacarolina@camara.leg.br;204509;ÁUREA CAROLINA DE FREITAS E SILVA;Áurea Carolina ;PSOL;feminino;MG
+318;Titular;27/12/1940;dep.luizantoniocorrea@camara.leg.br;204448;LUIZ ANTONIO DA COSTA CARVALHO CORREA DA SILVA;Luiz Antônio Corrêa ;PL;masculino;RJ
+319;Titular;03/11/1986;dep.francocartafina@camara.leg.br;204510;FRANCO CARTAFINA GOMES;Franco Cartafina ;PP;masculino;MG
+320;Titular;14/02/1960;dep.nelsonbarbudo@camara.leg.br;204449;NELSON NED PREVIDENTE;Nelson Barbudo ;PSL;masculino;MT
+321;Titular;21/12/1973;dep.davidsoares@camara.leg.br;204511;DAVID BEZERRA RIBEIRO SOARES;David Soares ;DEM;masculino;SP
+322;Titular;15/12/1973;dep.dr.luizantonioteixeirajr@camara.leg.br;204450;LUIZ ANTONIO DE SOUZA TEIXEIRA JÚNIOR;Dr. Luiz Antonio Teixeira Jr. ;PP;masculino;RJ
+323;Titular;06/01/1972;dep.delegadoantoniofurtado@camara.leg.br;204451;ANTÔNIO DA LUZ FURTADO;Delegado Antônio Furtado ;PSL;masculino;RJ
+324;Titular;29/06/1980;dep.rodrigocoelho@camara.leg.br;204366;RODRIGO COELHO;Rodrigo Coelho ;PSB;masculino;SC
+325;Titular;13/09/1980;dep.marinasantos@camara.leg.br;204432;MARINA SANTOS BATISTA DIAS;Marina Santos ;SOLIDARIEDADE;feminino;PI
+326;Titular;27/02/1974;dep.marciolabre@camara.leg.br;204452;MÁRCIO DA SILVEIRA LABRE;Márcio Labre ;PSL;masculino;RJ
+327;Titular;04/03/1976;dep.delegadomarcelofreitas@camara.leg.br;204512;MARCELO EDUARDO FREITAS;Delegado Marcelo Freitas ;PSL;masculino;MG
+328;Titular;03/04/1982;dep.danielfreitas@camara.leg.br;204367;DANIEL COSTA DE FREITAS;Daniel Freitas ;PSL;masculino;SC
+329;Titular;10/08/1981;dep.carlosveras@camara.leg.br;204426;JOSÉ CARLOS VERAS DOS SANTOS;Carlos Veras ;PT;masculino;PE
+330;Titular;31/05/1988;dep.fabioschiochet@camara.leg.br;204368;FÁBIO LUIZ SCHIOCHET FILHO;Fabio Schiochet ;PSL;masculino;SC
+331;Titular;13/11/1961;dep.guigapeixoto@camara.leg.br;204513;JOSÉ GUILHERME NEGRÃO PEIXOTO;Guiga Peixoto ;PSL;masculino;SP
+332;Titular;17/11/1983;dep.fernandorodolfo@camara.leg.br;204427;FERNANDO RODOLFO TENORIO DE VASCONCELOS;Fernando Rodolfo ;PL;masculino;PE
+333;Titular;30/09/1965;dep.coroneltadeu@camara.leg.br;204514;MARCIO TADEU ANHAIA DE LEMOS;Coronel Tadeu ;PSL;masculino;SP
+334;Titular;12/04/1984;dep.mariliaarraes@camara.leg.br;204428;MARÍLIA VALENÇA ROCHA ARRAES DE ALENCAR;Marília Arraes ;PT;feminino;PE
+335;Titular;15/06/1988;dep.nataliabonavides@camara.leg.br;204453;NATÁLIA BASTOS BONAVIDES;Natália Bonavides ;PT;feminino;RN
+336;Titular;25/11/1982;dep.danielsilveira@camara.leg.br;204454;DANIEL LUCIO DA SILVEIRA;Daniel Silveira ;PSL;masculino;RJ
+337;Titular;11/04/1996;dep.luisacanziani@camara.leg.br;204410;LUISA CANZIANI DOS SANTOS SILVEIRA;Luisa Canziani ;PTB;feminino;PR
+338;Titular;29/05/1991;dep.filipebarros@camara.leg.br;204411;FILIPE BARROS BAPTISTA DE TOLEDO RIBEIRO;Filipe Barros ;PSL;masculino;PR
+339;Titular;01/09/1986;dep.carolinedetoni@camara.leg.br;204369;CAROLINE RODRIGUES DE TONI;Caroline de Toni ;PSL;feminino;SC
+340;Titular;05/05/1984;dep.andrejanones@camara.leg.br;204515;ANDRE LUIS GASPAR JANONES;André Janones ;AVANTE;masculino;MG
+341;Titular;19/08/1967;dep.alexisfonteyne@camara.leg.br;204516;Alexis Joseph Steverlynck Fonteyne;Alexis Fonteyne ;NOVO;masculino;SP
+342;Titular;31/05/1977;dep.vitorhugo@camara.leg.br;179587;VITOR HUGO DE ARAUJO ALMEIDA;Vitor Hugo ;PSL;masculino;GO
+343;Titular;01/11/1984;dep.zevitor@camara.leg.br;204517;JOSE VITOR DE RESENDE AGUIAR;Zé Vitor ;PL;masculino;MG
+344;Titular;24/03/1977;dep.dr.frederico@camara.leg.br;204518;FREDERICO DE CASTRO ESCALEIRA;Dr. Frederico ;PATRIOTA;masculino;MG
+345;Titular;15/08/1986;dep.tiagomitraud@camara.leg.br;204519;TIAGO LIMA MITRAUD DE CASTRO LEITE;Tiago Mitraud ;NOVO;masculino;MG
+346;Titular;30/06/1987;dep.junioamaral@camara.leg.br;204520;GERALDO JUNIO DO AMARAL;Junio Amaral ;PSL;masculino;MG
+347;Titular;10/12/1977;dep.luizlima@camara.leg.br;204455;LUIZ EDUARDO CARNEIRO DA SILVA DE SOUZA LIMA;Luiz Lima ;PSL;masculino;RJ
+348;Titular;09/09/1979;dep.gutembergreis@camara.leg.br;204456;GUTEMBERG REIS DE OLIVEIRA;Gutemberg Reis ;MDB;masculino;RJ
+349;Titular;23/10/1976;dep.juninhodopneu@camara.leg.br;204457;ROGERIO TEIXEIRA JUNIOR;Juninho do Pneu ;DEM;masculino;RJ
+350;Titular;09/01/1980;dep.majorfabiana@camara.leg.br;204458;FABIANA SILVA DE SOUZA POUBEL;Major Fabiana ;PSL;feminino;RJ
+351;Titular;10/02/1976;dep.danieladowaguinho@camara.leg.br;204459;DANIELA MOTE DE SOUZA CARNEIRO;Daniela do Waguinho ;MDB;feminino;RJ
+352;Titular;06/11/1966;dep.abouanni@camara.leg.br;204521;PAULO SERGIO ABOU ANNI;Abou Anni ;PSL;masculino;SP
+353;Titular;30/04/1968;dep.marcobertaiolli@camara.leg.br;204522;MARCO AURELIO BERTAIOLLI;Marco Bertaiolli ;PSD;masculino;SP
+354;Titular;21/12/1988;dep.lucasgonzalez@camara.leg.br;204523;LUCAS DE VASCONCELOS GONZALEZ;Lucas Gonzalez ;NOVO;masculino;MG
+355;Titular;08/02/1982;dep.carlosjordy@camara.leg.br;204460;Carlos Roberto Coelho de Mattos Júnior;Carlos Jordy ;PSL;masculino;RJ
+356;Titular;19/04/1983;dep.pauloganime@camara.leg.br;204461;PAULO GUSTAVO GANIME ALVES TEIXEIRA;Paulo Ganime ;NOVO;masculino;RJ
+357;Titular;26/11/1993;dep.joaohcampos@camara.leg.br;204429;JOÃO HENRIQUE DE ANDRADE LIMA CAMPOS;João H. Campos ;PSB;masculino;PE
+358;Titular;14/05/1991;dep.christonietto@camara.leg.br;204462;CHRISTINE NOGUEIRA DOS REIS TONIETTO;Chris Tonietto ;PSL;feminino;RJ
+359;Titular;30/05/1991;dep.pinheirinho@camara.leg.br;204524;ANTÔNIO PINHEIRO NETO;Pinheirinho ;PP;masculino;MG
+360;Titular;08/05/1969;dep.rosanavalle@camara.leg.br;204525;ROSANA DE OLIVEIRA VALLE;Rosana Valle ;PSB;feminino;SP
+361;Titular;13/01/1985;dep.wladimirgarotinho@camara.leg.br;204463;WLADIMIR BARROS ASSED MATHEUS DE OLIVEIRA;Wladimir Garotinho ;PSD;masculino;RJ
+362;Titular;09/04/1985;dep.taliriapetrone@camara.leg.br;204464;TALIRIA PETRONE SOARES;Talíria Petrone ;PSOL;feminino;RJ
+363;Titular;05/11/1953;dep.dr.zachariascalil@camara.leg.br;204412;ZACARIAS CALIL HAMU;Dr. Zacharias Calil ;DEM;masculino;GO
+364;Titular;03/04/1969;dep.luizphilippedeorleansebraganca@camara.leg.br;204526;LUIZ PHILIPPE DE ORLEANS BRAGANÇA;Luiz Philippe de Orleans e Bragança ;PSL;masculino;SP
+365;Titular;11/05/1953;dep.haroldocathedral@camara.leg.br;204465;HAROLDO ALVES CAMPOS;Haroldo Cathedral ;PSD;masculino;RR
+366;Titular;13/01/1976;dep.geninhozuliani@camara.leg.br;204527;EUGENIO JOSÉ ZULIANI;Geninho Zuliani ;DEM;masculino;SP
+367;Titular;13/08/1953;dep.celiomoura@camara.leg.br;204370;CELIO ALVES DE MOURA;Célio Moura ;PT;masculino;TO
+368;Titular;06/03/1969;dep.adrianaventura@camara.leg.br;204528;ADRIANA MIGUEL VENTURA;Adriana Ventura ;NOVO;feminino;SP
+369;Titular;13/06/1991;dep.feliperigoni@camara.leg.br;204371;FELIPE RIGONI LOPES;Felipe Rigoni ;PSB;masculino;ES
+370;Titular;08/10/1950;dep.alcidesrodrigues@camara.leg.br;204413;ALCIDES RODRIGUES FILHO;Alcides Rodrigues ;PATRIOTA;masculino;GO
+371;Titular;07/10/1957;dep.terezanelma@camara.leg.br;204466;TEREZA NELMA DA SILVA PORTO VIANA SOARES;Tereza Nelma ;PSDB;feminino;AL
+372;Titular;24/02/1975;dep.juliocesarribeiro@camara.leg.br;204372;JULIO CESAR RIBEIRO;Julio Cesar Ribeiro ;REPUBLICANOS;masculino;DF
+373;Titular;04/04/1976;dep.policialkatiasastre@camara.leg.br;204529;KATIA DA SILVA SASTRE;Policial Katia Sastre ;PL;feminino;SP
+374;Titular;03/07/1961;dep.aroldomartins@camara.leg.br;204414;JOSE AROLDO SOUZA MARTINS;Aroldo Martins ;REPUBLICANOS;masculino;PR
+375;Titular;03/03/1954;dep.heliocosta@camara.leg.br;204373;HÉLIO FRANCISCO DA COSTA;Hélio Costa ;REPUBLICANOS;masculino;SC
+376;Titular;12/12/1977;dep.rodrigoagostinho@camara.leg.br;204530;RODRIGO ANTONIO DE AGOSTINHO MENDONÇA;Rodrigo Agostinho ;PSB;masculino;SP
+377;Titular;08/08/1963;dep.professorarosaneide@camara.leg.br;204467;ROSA NEIDE SANDES DE ALMEIDA;Professora Rosa Neide ;PT;feminino;MT
+378;Titular;10/10/1984;dep.guilhermederrite@camara.leg.br;204531;GUILHERME MURARO DERRITE;Guilherme Derrite ;PP;masculino;SP
+379;Titular;20/04/1973;dep.joeniawapichana@camara.leg.br;204468;JOENIA BATISTA DE CARVALHO;Joenia Wapichana ;REDE;feminino;RR
+380;Titular;10/04/1970;dep.cristianovale@camara.leg.br;135054;CRISTIANO DUTRA VALE;Cristiano Vale ;PL;masculino;PA
+381;Titular;31/01/1986;dep.viniciuspoit@camara.leg.br;204532;VINICIUS LAZZER POIT;Vinicius Poit ;NOVO;masculino;SP
+382;Titular;07/05/1972;dep.manuelmarcos@camara.leg.br;204469;MANUEL MARCOS CARVALHO DE MESQUITA;Manuel Marcos ;REPUBLICANOS;masculino;AC
+383;Titular;21/07/1963;dep.nereucrispim@camara.leg.br;204415;NEREU CRISPIM;Nereu Crispim ;PSL;masculino;RS
+384;Titular;23/09/1968;dep.idilvanalencar@camara.leg.br;204533;ANTONIO IDILVAN DE LIMA ALENCAR;Idilvan Alencar ;PDT;masculino;CE
+385;Titular;19/09/1961;dep.biakicis@camara.leg.br;204374;BEATRIZ KICIS TORRENTS DE SORDI;Bia Kicis ;PSL;feminino;DF
+386;Titular;14/11/1993;dep.tabataamaral@camara.leg.br;204534;TABATA CLAUDIA AMARAL DE PONTES;Tabata Amaral ;PDT;feminino;SP
+387;Titular;22/08/1989;dep.samiabomfim@camara.leg.br;204535;SAMIA DE SOUZA BOMFIM;Sâmia Bomfim ;PSOL;feminino;SP
+388;Titular;28/01/1996;dep.kimkataguiri@camara.leg.br;204536;KIM PATROCA KATAGUIRI;Kim Kataguiri ;DEM;masculino;SP
+389;Titular;22/04/1966;dep.benesleocadio@camara.leg.br;109429;LUIZ BENES LEOCADIO DE ARAUJO;Benes Leocádio ;REPUBLICANOS;masculino;RN
+390;Titular;04/09/1973;dep.mararocha@camara.leg.br;204471;CYLMARA FERNANDES DA ROCHA GRIPP;Mara Rocha ;PSDB;feminino;AC
+391;Titular;19/06/1972;dep.fabiohenrique@camara.leg.br;68720;FABIO HENRIQUE SANTANA DE CARVALHO;Fábio Henrique ;PDT;masculino;SE
+392;Titular;19/03/1970;dep.josemedeiros@camara.leg.br;204472;JOSE ANTONIO DOS SANTOS MEDEIROS;José Medeiros ;PODE;masculino;MT
+393;Titular;11/06/1966;dep.ledasadala@camara.leg.br;204375;LEDA MARIA SADALA BRITO;Leda Sadala ;AVANTE;feminino;AP
+394;Titular;06/08/1994;dep.enricomisasi@camara.leg.br;204537;ENRICO VAN BLARCUM DE GRAAFF MISASI;Enrico Misasi ;PV;masculino;SP
+395;Titular;08/05/1955;dep.generalgirao@camara.leg.br;204473;ELIÉSER GIRÃO MONTEIRO FILHO;General Girão ;PSL;masculino;RN
+396;Titular;06/01/1974;dep.paulobengtson@camara.leg.br;204538;PAULO EDUARDO MAESTRI BENGTSON;Paulo Bengtson ;PTB;masculino;PA
+397;Titular;14/09/1963;dep.herciliocoelhodiniz@camara.leg.br;204539;HERCÍLIO ARAÚJO DINIZ FILHO;Hercílio Coelho Diniz ;MDB;masculino;MG
+398;Titular;20/01/1960;dep.juarezcosta@camara.leg.br;204474;JUAREZ ALVES DA COSTA;Juarez Costa ;MDB;masculino;MT
+399;Titular;23/06/1957;dep.coronelarmando@camara.leg.br;204376;LUIZ ARMANDO SCHROEDER REIS;Coronel Armando ;PSL;masculino;SC
+400;Titular;01/12/1969;dep.sanderson@camara.leg.br;204416;UBIRATAN ANTUNES SANDERSON;Sanderson ;PSL;masculino;RS
+401;Titular;06/09/1969;dep.adrianodobaldy@camara.leg.br;121948;ADRIANO ANTÔNIO AVELAR;Adriano do Baldy ;PP;masculino;GO
+402;Titular;06/06/1962;dep.luizaogoulart@camara.leg.br;204418;LUIZ GOULARTE ALVES;Luizão Goulart ;REPUBLICANOS;masculino;PR
+403;Titular;23/06/1973;dep.paulabelmonte@camara.leg.br;204377;PAULA MORENO PARO BELMONTE;Paula Belmonte ;CIDADANIA;feminino;DF
+404;Titular;22/12/1973;dep.glaustinfokus@camara.leg.br;204419;GLAUSKSTON BATISTA RIOS;Glaustin Fokus ;PSC;masculino;GO
+405;Titular;01/10/1965;dep.mariarosas@camara.leg.br;204540;MARIA DO PARTO MENDES ROSAS;Maria Rosas ;REPUBLICANOS;feminino;SP
+406;Titular;14/11/1981;dep.eduardobismarck@camara.leg.br;204541;EDUARDO HENRIQUE MAIA BISMARCK;Eduardo Bismarck ;PDT;masculino;CE
+407;Titular;05/01/1976;dep.julianlemos@camara.leg.br;204420;GULLIEM CHARLES BEZERRA LEMOS;Julian Lemos ;PSL;masculino;PB
+408;Titular;17/03/1980;dep.denisbezerra@camara.leg.br;204542;DENIS ANDERSON DA ROCHA BEZERRA;Denis Bezerra ;PSB;masculino;CE
+409;Titular;18/08/1977;dep.ottacinascimento@camara.leg.br;204475;JOSE OTACI BARROSO DO NASCIMENTO;Ottaci Nascimento;SOLIDARIEDADE;masculino;RR
+410;Titular;23/06/1959;dep.coronelchrisostomo@camara.leg.br;204378;JOAO CHRISÓSTOMO DE MOURA;Coronel Chrisóstomo ;PSL;masculino;RO
+411;Titular;28/09/1983;dep.acaciofavacho@camara.leg.br;204379;ACÁCIO DA SILVA FAVACHO NETO;Acácio Favacho ;PROS;masculino;AP
+412;Titular;22/02/1962;dep.chiquinhobrazao@camara.leg.br;204476;JOÃO FRANCISCO INÁCIO BRAZÃO;Chiquinho Brazão ;AVANTE;masculino;RJ
+413;Titular;14/10/1963;dep.alexandrefrota@camara.leg.br;204544;ALEXANDRE FROTA DE ANDRADE;Alexandre Frota ;PSDB;masculino;SP
+414;Titular;04/07/1974;dep.alesilva@camara.leg.br;204545;ALESSANDRA DA SILVA;Alê Silva ;PSL;feminino;MG
+415;Titular;02/03/1977;dep.celinaleao@camara.leg.br;204380;CELINA LEAO HIZIM FERREIRA;Celina Leão ;PP;feminino;DF
+416;Titular;04/09/1958;dep.ednahenrique@camara.leg.br;204421;EDNACE ALVES SILVESTRE HENRIQUE;Edna Henrique ;PSDB;feminino;PB
+417;Titular;10/03/1961;dep.dra.sorayamanato@camara.leg.br;81297;SORAYA DE SOUZA MANNATO;Dra. Soraya Manato ;PSL;feminino;ES
+418;Titular;10/01/1965;dep.gelsonazevedo@camara.leg.br;115746;GELSON DE AZEVEDO ALMEIDA;Gelson Azevedo ;PL;masculino;RJ
+419;Titular;29/01/1978;dep.joicehasselmann@camara.leg.br;204546;JOICE CRISTINA HASSELMANN;Joice Hasselmann ;PSL;feminino;SP
+420;Titular;26/10/1973;dep.leomotta@camara.leg.br;204547;ELIEL MÁRCIO DO CARMO;Léo Motta ;PSL;masculino;MG
+421;Titular;11/10/1980;dep.pedroaugustobezerra@camara.leg.br;90201;PEDRO AUGUSTO GEROMEL BEZERRA DE MENEZES;Pedro Augusto Bezerra ;PTB;masculino;CE
+422;Titular;27/03/1980;dep.luismiranda@camara.leg.br;204381;LUIS CLAUDIO FERNANDES MIRANDA;Luis Miranda ;DEM;masculino;DF
+423;Titular;26/05/1967;dep.feliciolaterca@camara.leg.br;204477;FELÍCIO LATERÇA DE ALMEIDA;Felício Laterça ;PSL;masculino;RJ
+424;Titular;21/06/1965;dep.viniciusfarah@camara.leg.br;204478;VINICIUS MEDEIROS FARAH;Vinicius Farah ;MDB;masculino;RJ
+425;Titular;08/10/1981;dep.heitorfreire@camara.leg.br;204548;HEITOR RODRIGO PEREIRA FREIRE;Heitor Freire ;PSL;masculino;CE
+426;Titular;21/09/1982;dep.loestertrutis@camara.leg.br;204382;LOESTER CARLOS GOMES DE SOUZA;Loester Trutis ;PSL;masculino;MS
+427;Titular;02/05/1982;dep.professorisraelbatista@camara.leg.br;204383;ISRAEL MATOS BATISTA;Professor Israel Batista ;PV;masculino;DF
+428;Titular;26/09/1983;dep.ajalbuquerque@camara.leg.br;204549;ANTONIO JOSE AGUIAR ALBUQUERQUE;AJ Albuquerque;PP;masculino;CE
+429;Titular;16/04/1985;dep.juniormano@camara.leg.br;204550;ANTÔNIO LUIZ RODRIGUES MANO JÚNIOR;Júnior Mano ;PL;masculino;CE
+430;Titular;21/07/1981;dep.nicoletti@camara.leg.br;204479;ANTONIO CARLOS NICOLETTI;Nicoletti ;PSL;masculino;RR
+431;Titular;08/06/1961;dep.sergiobrito@camara.leg.br;73808;SÉRGIO LUÍS LACERDA BRITO;Sérgio Brito ;PSD;masculino;BA
+432;Titular;22/11/1950;dep.atilalins@camara.leg.br;74090;ÁTILA SIDNEY LINS ALBUQUERQUE;Átila Lins ;PP;masculino;AM
+433;Titular;12/03/1956;dep.lidicedamata@camara.leg.br;139285;LÍDICE DA MATA E SOUZA;Lídice da Mata ;PSB;feminino;BA
+434;Titular;01/12/1963;dep.claudiocajado@camara.leg.br;74537;CLÁUDIO CAJADO SAMPAIO;Claudio Cajado ;PP;masculino;BA
+435;Titular;18/08/1948;dep.joserocha@camara.leg.br;74554;JOSÉ ALVES ROCHA;José Rocha ;PL;masculino;BA
+436;Titular;15/12/1962;dep.silascamara@camara.leg.br;74356;SILAS CÂMARA;Silas Câmara ;REPUBLICANOS;masculino;AM
+437;Titular;16/05/1959;dep.aliceportugal@camara.leg.br;74057;ALICE MAZZUCO PORTUGAL;Alice Portugal ;PCdoB;feminino;BA
+438;Titular;21/01/1955;dep.danielalmeida@camara.leg.br;74060;DANIEL GOMES DE ALMEIDA;Daniel Almeida ;PCdoB;masculino;BA
+439;Titular;10/05/1972;dep.cleberverde@camara.leg.br;141408;CLEBER VERDE CORDEIRO MENDES;Cleber Verde ;REPUBLICANOS;masculino;MA
+440;Titular;08/10/1972;dep.joaocarlosbacelar@camara.leg.br;141458;JOÃO CARLOS PAOLILO BACELAR FILHO;João Carlos Bacelar ;PL;masculino;BA
+441;Titular;12/12/1970;dep.marciomarinho@camara.leg.br;150418;MÁRCIO CARLOS MARINHO;Márcio Marinho ;REPUBLICANOS;masculino;BA
+442;Titular;29/11/1963;dep.felixmendoncajunior@camara.leg.br;160666;FELIX DE ALMEIDA MENDONÇA JÚNIOR;Félix Mendonça Júnior ;PDT;masculino;BA
+443;Titular;15/10/1960;dep.afonsoflorence@camara.leg.br;160508;AFONSO BANDEIRA FLORENCE;Afonso Florence ;PT;masculino;BA
+444;Titular;17/12/1964;dep.valmirassuncao@camara.leg.br;160610;VALMIR CARLOS DA ASSUNÇÃO;Valmir Assunção ;PT;masculino;BA
+445;Titular;08/03/1954;dep.waldenorpereira@camara.leg.br;160569;WALDENOR ALVES PEREIRA FILHO;Waldenor Pereira ;PT;masculino;BA
+446;Titular;17/01/1969;dep.antoniobrito@camara.leg.br;160553;ANTONIO LUIZ PARANHOS RIBEIRO LEITE DE BRITO;Antonio Brito ;PSD;masculino;BA
+447;Titular;17/08/1964;dep.arthuroliveiramaia@camara.leg.br;160600;ARTHUR DE OLIVEIRA MAIA DA SILVA;Arthur Oliveira Maia ;DEM;masculino;BA
+448;Titular;18/12/1950;dep.josenunes@camara.leg.br;160619;JOSÉ NUNES SOARES;José Nunes ;PSD;masculino;BA
+449;Titular;10/10/1959;dep.boscosaraiva@camara.leg.br;204551;JOÃO BOSCO GOMES SARAIVA;Bosco Saraiva ;SOLIDARIEDADE;masculino;AM
+450;Titular;12/01/1976;dep.eduardobraide@camara.leg.br;204552;EDUARDO SALIM BRAIDE;Eduardo Braide ;PODE;masculino;MA
+451;Titular;28/07/1962;dep.pastorsargentoisidorio@camara.leg.br;204553;MANOEL ISIDORIO DE SANTANA JUNIOR;Pastor Sargento Isidório ;AVANTE;masculino;BA
+452;Titular;03/11/1979;dep.cacaleao@camara.leg.br;93083;CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO;Cacá Leão ;PP;masculino;BA
+453;Titular;06/07/1970;dep.elmarnascimento@camara.leg.br;178854;ELMAR JOSE VIEIRA NASCIMENTO;Elmar Nascimento ;DEM;masculino;BA
+454;Titular;09/07/1957;dep.bacelar@camara.leg.br;69871;JOAO CARLOS BACELAR BATISTA;Bacelar ;PODE;masculino;BA
+455;Titular;11/04/1961;dep.jorgesolla@camara.leg.br;178857;JORGE JOSE SANTOS PEREIRA SOLLA;Jorge Solla ;PT;masculino;BA
+456;Titular;31/08/1980;dep.marionegromontejr@camara.leg.br;178858;MARIO SILVIO MENDES NEGROMONTE JUNIOR;Mário Negromonte Jr. ;PP;masculino;BA
+457;Titular;14/01/1963;dep.pauloazi@camara.leg.br;178860;PAULO VELLOSO DANTAS AZI;Paulo Azi ;DEM;masculino;BA
+458;Titular;05/01/1960;dep.ronaldocarletto@camara.leg.br;178861;RONALDO CARLETTO;Ronaldo Carletto ;PP;masculino;BA
+459;Titular;30/01/1992;dep.ulduricojunior@camara.leg.br;178863;ULDURICO ALENCAR PINTO;Uldurico Junior ;PROS;masculino;BA
+460;Titular;11/11/1961;dep.aluisiomendes@camara.leg.br;178881;ALUISIO GUIMARAES MENDES FILHO;Aluisio Mendes ;PSC;masculino;MA
+461;Titular;27/08/1989;dep.andrefufuca@camara.leg.br;178882;ANDRE LUIZ CARVALHO RIBEIRO;André Fufuca ;PP;masculino;MA
+462;Titular;22/04/1960;dep.hildorocha@camara.leg.br;178884;HILDO AUGUSTO DA ROCHA NETO;Hildo Rocha ;MDB;masculino;MA
+463;Titular;11/11/1973;dep.joaomarcelosouza@camara.leg.br;112437;JOÃO MARCELO SANTOS SOUZA;João Marcelo Souza ;MDB;masculino;MA
+464;Titular;06/11/1984;dep.juscelinofilho@camara.leg.br;178886;JOSE JUSCELINO DOS SANTOS REZENDE FILHO;Juscelino Filho ;DEM;masculino;MA
+465;Titular;26/05/1955;dep.zecarlos@camara.leg.br;178889;JOSÉ CARLOS NUNES JÚNIOR;Zé Carlos ;PT;masculino;MA
+466;Titular;13/02/1965;dep.abiliosantana@camara.leg.br;204554;JOSE ABILIO SILVA DE SANTANA;Abílio Santana ;PL;masculino;BA
+467;Titular;23/06/1964;dep.josericardo@camara.leg.br;204555;JOSÉ RICARDO WENDLING;José Ricardo ;PT;masculino;AM
+468;Titular;29/08/1973;dep.marceloramos@camara.leg.br;204556;MARCELO RAMOS RODRIGUES;Marcelo Ramos ;PL;masculino;AM
+469;Titular;08/04/1967;dep.sidneyleite@camara.leg.br;204557;SIDNEY RICARDO DE OLIVEIRA LEITE;Sidney Leite ;PSD;masculino;AM
+470;Titular;26/04/1955;dep.marcelonilo@camara.leg.br;204558;JOSÉ MARCELO DO NASCIMENTO NILO;Marcelo Nilo ;PSB;masculino;BA
+471;Titular;30/03/1964;dep.zeneto@camara.leg.br;204559;JOSÉ CERQUEIRA DE SANTANA NETO;Zé Neto ;PT;masculino;BA
+472;Titular;02/02/1981;dep.adolfoviana@camara.leg.br;204560;ADOLFO VIANA DE CASTRO NETO;Adolfo Viana ;PSDB;masculino;BA
+473;Titular;28/10/1976;dep.leurlomantojunior@camara.leg.br;92102;LEUR ANTONIO DE BRITTO LOMANTO JUNIOR;Leur Lomanto Júnior ;DEM;masculino;BA
+474;Titular;01/11/1968;dep.biradopindare@camara.leg.br;204561;UBIRAJARA DO PINDARÉ ALMEIDA SOUSA;Bira do Pindaré ;PSB;masculino;MA
+475;Titular;04/05/1981;dep.edilaziojunior@camara.leg.br;204562;EDILAZIO GOMES DA SILVA JUNIOR;Edilázio Júnior ;PSD;masculino;MA
+476;Titular;29/11/1984;dep.igorkannario@camara.leg.br;204564;ANDERSON MACHADO DE JESUS;Igor Kannário ;DEM;masculino;BA
+477;Titular;30/01/1986;dep.professoradayanepimentel@camara.leg.br;204565;DAYANE JAMILLE CARNEIRO DOS SANTOS PIMENTEL;Professora Dayane Pimentel ;PSL;feminino;BA
+478;Titular;25/04/1992;dep.marrecafilho@camara.leg.br;204566;ANTONIO DA CRUZ FILGUEIRA NETO;Marreca Filho ;PATRIOTA;masculino;MA
+479;Titular;09/03/1961;dep.raimundocosta@camara.leg.br;204567;RAIMUNDO MAGALHÃES COSTA;Raimundo Costa ;PL;masculino;BA
+480;Titular;14/11/1966;dep.marciojerry@camara.leg.br;81055;MÁRCIO JERRY SARAIVA BARROSO;Márcio Jerry ;PCdoB;masculino;MA
+481;Titular;26/07/1976;dep.delegadopablo@camara.leg.br;204569;PABLO OLIVA SOUZA;Delegado Pablo ;PSL;masculino;AM
+482;Titular;08/11/1971;dep.gildenemyr@camara.leg.br;204570;GILDENEMIR DE LIMA SOUSA;Gildenemyr ;PL;masculino;MA
+483;Titular;22/06/1972;dep.alexsantana@camara.leg.br;204571;ALEX MARCO SANTANA SOUSA;Alex Santana ;PDT;masculino;BA
+484;Titular;05/05/1982;dep.capitaoalbertoneto@camara.leg.br;204572;ALBERTO BARROS CAVALCANTE NETO;Capitão Alberto Neto ;REPUBLICANOS;masculino;AM
+485;Titular;07/07/1977;dep.ottoalencarfilho@camara.leg.br;204573;OTTO ROBERTO MENDONÇA DE ALENCAR FILHO;Otto Alencar Filho ;PSD;masculino;BA
+486;Titular;17/11/1976;dep.tito@camara.leg.br;197438;CARLOS TITO MARQUES CORDEIRO;Tito ;AVANTE;masculino;BA
+487;Titular;18/10/1978;dep.juniorlourenco@camara.leg.br;204574;JOSE LOURENÇO BOMFIM JUNIOR;Junior Lourenço ;PL;masculino;MA
+488;Titular;26/10/1979;dep.gilcutrim@camara.leg.br;204575;GILLIANO FRED NASCIMENTO CUTRIM;Gil Cutrim ;PDT;masculino;MA
+489;Titular;17/11/1972;dep.joaoroma@camara.leg.br;204576;JOÃO INÁCIO RIBEIRO ROMA NETO;João Roma ;REPUBLICANOS;masculino;BA
+490;Titular;01/11/1979;dep.pedrolucasfernandes@camara.leg.br;122974;PEDRO LUCAS ANDRADE FERNANDES RIBEIRO;Pedro Lucas Fernandes ;PTB;masculino;MA
+491;Titular;01/02/1982;dep.betorosado@camara.leg.br;178948;CARLOS ALBERTO DE SOUSA ROSADO SEGUNDO;Beto Rosado ;PP;masculino;RN
+492;Titular;15/03/1965;dep.charlesfernandes@camara.leg.br;205476;CHARLES FERNANDES SILVEIRA SANTANA;Charles Fernandes ;PSD;masculino;BA
+493;Suplente;09/01/1980;dep.patriciaferraz@camara.leg.br;205535;PATRICIA LIMA FERRAZ;Patricia Ferraz ;PODE;feminino;AP
+494;Titular;10/05/1985;dep.davidmiranda@camara.leg.br;205548;DAVID MICHAEL DOS SANTOS MIRANDA;David Miranda ;PSOL;masculino;RJ
+495;Titular;13/07/1953;dep.jorgebraz@camara.leg.br;205550;JORGE BRAZ DE OLIVEIRA ;Jorge Braz ;REPUBLICANOS;masculino;RJ
+496;Suplente;25/11/1972;dep.marcelobrum@camara.leg.br;205863;MARCELO DE BRUM DA COSTA;Marcelo Brum ;PSL;masculino;RS
+497;Suplente;03/03/1973;dep.roman@camara.leg.br;178930;EVANDRO ROGERIO ROMAN;Roman ;PSD;masculino;PR
+498;Suplente;26/07/1965;dep.reinholdstephanesjunior@camara.leg.br;205865;REINHOLD STEPHANES JUNIOR;Reinhold Stephanes Junior ;PSD;masculino;PR
+499;Suplente;28/12/1964;dep.tedconti@camara.leg.br;206231;JOÃO BATISTA CONTI;Ted Conti ;PSB;masculino;ES
+500;Suplente;14/01/1969;dep.biacavassa@camara.leg.br;207176;BEATRIZ ROSALIA RIBEIRO CAVASSA DE OLIVEIRA;Bia Cavassa ;PSDB;feminino;MS
+501;Suplente;05/11/1972;dep.eneiasreis@camara.leg.br;207309;ENEIAS JOSÉ DOS REIS;Enéias Reis ;PSL;masculino;MG
+502;Suplente;02/10/1973;dep.santini@camara.leg.br;90842;RONALDO SANTINI;Santini ;PTB;masculino;RS
+503;Suplente;23/08/1957;dep.joseildoramos@camara.leg.br;209189;JOSEILDO RIBEIRO RAMOS;Joseildo Ramos ;PT;masculino;BA
+504;Suplente;28/11/1952;dep.paulomagalhaes@camara.leg.br;74574;PAULO SÉRGIO PARANHOS DE MAGALHÃES;Paulo Magalhães ;PSD;masculino;BA
+505;Suplente;15/06/1946;dep.gastaovieira@camara.leg.br;74200;GASTÃO DIAS VIEIRA;Gastão Vieira ;PROS;masculino;MA
+506;Suplente;23/03/1937;dep.paeslandim@camara.leg.br;74319;JOSÉ FRANCISCO PAES LANDIM;Paes Landim ;PTB;masculino;PI
+507;Suplente;15/10/1957;dep.miguelhaddad@camara.leg.br;178984;MIGUEL MOUBADDA HADDAD;Miguel Haddad ;PSDB;masculino;SP
+508;Suplente;10/06/1978;dep.luizlaurofilho@camara.leg.br;178982;LUIZ LAURO FERREIRA FILHO;Luiz Lauro Filho ;PSDB;masculino;SP
+509;Suplente;10/09/1974;dep.marcaogomes@camara.leg.br;212749;MARCUS WELBER GOMES DA SILVA;Marcão Gomes ;PL;masculino;RJ
+510;Suplente;09/02/1985;dep.paulomarinhojr@camara.leg.br;128760;PAULO CELSO FONSECA MARINHO JÚNIOR;Paulo Marinho Jr ;PL;masculino;MA
+511;Suplente;01/09/1985;dep.ricardosilva@camara.leg.br;213274;RICARDO AUGUSTO MACHADO DA SILVA;Ricardo Silva;PSB;masculino;SP
+512;Suplente;23/02/1951;dep.dr.sinvalmalheiros@camara.leg.br;178830;SINVAL MALHEIROS PINTO JÚNIOR;Dr. Sinval Malheiros;PODE;masculino;SP
